@@ -1,4 +1,4 @@
-# 🛒 Shoppingmall_Project_BackEnd
+# 🛒 Shoppingmall_Project
 **쇼핑몰 프로젝트**
 <br></br>
 ## 🎈🎈개요
